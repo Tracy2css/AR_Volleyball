@@ -1,3 +1,3 @@
-## Watch the Gif
-
-![Demo](./demo/AR_Target_Demo_Speed_1.8x.gif)# AR_Volleyball
+# AR Volleyball
+## Demo
+![Demo](./AR_Target_Demo_Speed_1.8x.gif)
